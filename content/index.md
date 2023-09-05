@@ -1,6 +1,5 @@
 ---
-title: Volatus' home page (initial tests)
+title: Portal de Artigos do Volatus
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Seja bem-vindo(a). Por hora, esta página não possui conteúdo substancial.
