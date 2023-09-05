@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Volatus' home page (initial tests)
 ---
 
 This is a blank Quartz installation.
